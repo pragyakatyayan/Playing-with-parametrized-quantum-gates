@@ -4,4 +4,7 @@
 
 This repository consists of notebooks supporting my [tutorial blog](https://medium.com/@pragyakatyayan/how-to-find-correct-angle-values-of-parametrized-quantum-gates-using-qiskit-3f30c2aa4ebf) on medium.   
 
+Leave a star if it helped you.
 
+Thank you,   
+Pragya. 
